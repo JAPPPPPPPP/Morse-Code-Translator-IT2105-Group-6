@@ -14,5 +14,4 @@ The GUI itself is not resizable that may become a problem to some users that use
 9. Enjoy!
 
 # Team
-![image](https://user-images.githubusercontent.com/120148727/206623559-b35c856b-8795-4fd9-84bd-e89a263ffe20.png)
-
+![image](https://user-images.githubusercontent.com/120148727/206709309-8dd831e9-9479-40c1-9533-e59a11b4960f.png)
