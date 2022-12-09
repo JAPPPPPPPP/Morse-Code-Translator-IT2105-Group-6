@@ -1,7 +1,6 @@
 # Morse Code Translator
 This program is an interactive translation tool made using python language. When the program runs, a Graphical User Interface pops up that demands user input and translate it into a morse code and vice versa.
-With the use of a certain button, you can easily translate user input into its assigned meaning or symbol. By providing more details on the code, the user can freely use the "Copy/Paste" command buttons on the output provided by the GUI to easily lessen workload and be more user-friendly.
-The GUI itself is not resizable that may become a problem to some users that uses different platforms.
+With the use of a run button, you can easily translate user input into its assigned meaning or symbol. By providing more details on the code, the user can freely use the "Copy/Paste" command buttons on the output provided by the GUI to easily lessen workload and be more user-friendly.
 
 # How to Use the Program
 1. Download and Install a Python IDE(Integrated development environment) Software.
